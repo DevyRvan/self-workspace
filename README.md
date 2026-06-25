@@ -10,6 +10,7 @@
 |------|------|:---:|
 | `信息资讯站/` | frontier-feed：资讯聚合 + AI 消化工作台（A1） | ✅ |
 | `游戏/` | Vite + React + TS + Capacitor（可打安卓包） | ✅ |
+| `网页自动化外挂/` | page-agent spike：验证页内 GUI Agent 做商家重复网页操作（Phase 0） | — |
 | `问卷系统/` | survey-system | — |
 | `小程序/` | 小程序相关 | — |
 | `工具、资料/` | 工具与资料（含 superpowers） | — |
