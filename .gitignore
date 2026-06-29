@@ -8,6 +8,7 @@
 !/.gitignore
 !/README.md
 !/docs/
+!/认知库/
 
 # 常见忽略项（保险）
 .DS_Store
